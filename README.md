@@ -50,7 +50,6 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 ### Frameworks:
 <p align="left">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
