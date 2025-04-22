@@ -58,7 +58,7 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ram-narayan-gupta-02&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram-narayan-gupta-02&theme=dark&hide_border=false"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-narayan-gupta-02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-narayan-gupta-02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=5"/>
 </p>
 
 ---
