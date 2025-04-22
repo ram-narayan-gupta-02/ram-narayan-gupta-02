@@ -1,13 +1,12 @@
-# 💫 About Me:
-Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Scientist** and **Machine Learning Enthusiast**. Currently, I am pursuing my **B.Tech in Computer Science and Engineering** at **Raja Balwant Singh Engineering Technical Campus**, Agra (AKTU).
+# 🌟 About Me:
+Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Science** and **Machine Learning Enthusiast**. Currently, I am pursuing my **B.Tech in Computer Science and Engineering** at **Raja Balwant Singh Engineering Technical Campus**, Agra (AKTU).
 
-🔭 I’m interested in **data science**, **machine learning**, **artificial intelligence**, and **web development**. I love experimenting with data and creating models that can solve real-world problems. I am always excited to learn new concepts and technologies.
+🔭 I’m interested in **data science** and **machine learning**. I love experimenting with data and creating models that can solve real-world problems. I am always excited to learn new concepts and technologies.
 
 💼 **Current Projects**:
-- **Heart Disease Prediction using Heart Sounds (PCG)**
-- **Student Dropout Prediction using Machine Learning**
-- **AI-Powered Career Mentor Project (Smart Pathway Guide)**
-
+- **Titanic Survival Prediction System (TSPS)**
+- **Movies Recommendation System (MRS)**
+  
 👨‍💻 **Tech Stack**:
 - **Languages**: Python, Java, C
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly
