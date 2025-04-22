@@ -5,7 +5,7 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 
 💼 **Current Projects**:
 - **Titanic Survival Prediction System (TSPS)**
-- **Movies Recommendation System (MRS)**
+- **Movie Recommendation System (MRS)**
   
 👨‍💻 **Tech Stack**:
 - **Languages**: Python, Java, C
@@ -73,32 +73,30 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 
 ## 🚀 Fun Projects:
 Here are some of the projects I'm currently working on:
-1. **Heart Disease Prediction (PCG)**: A machine learning model that classifies the likelihood of heart disease using phonocardiogram signals.
-2. **Student Dropout Prediction**: Predicting student dropout rates based on academic and demographic factors to help educational institutions reduce dropout rates.
-3. **Smart Pathway Guide**: An AI-based career mentoring system that suggests career paths based on student profiles and market trends.
-
+1. **Titanic Survival Prediction System (TSPS)**: The TSPS is a machine learning-based model designed to predict whether a passenger survived or not aboard the ill-fated RMS Titanic.
+2. **Movies Recommendation System (MRS)**: The MRS is a machine learning-based model designed to provide personalized movie suggestions to users.
 ---
 
 # 📅 Let's Collaborate:
-I’m always open to collaborating on interesting projects, especially those involving data science, machine learning, and AI. If you want to connect, feel free to reach out via the links above!
+I’m always open to collaborating on interesting projects, especially those involving data science and machine learning. If you want to connect, feel free to reach out via the links above!
 
 ---
-
+<!--
 # 🏆 Achievements:
 - **Kaggle Competitions**: Participated in data science challenges and continuously improving my skills by tackling real-world datasets.
 - **Open Source Contributions**: Contributing to open-source repositories to enhance my learning and give back to the community.
-
 ---
-
+-->
+<!--
 # 📍 Fun Stats About My GitHub:
-- 🌱 I’ve committed to over **100+** repositories
-- 🔥 I’ve participated in **5+** hackathons and machine learning challenges
-- 🛠️ I’ve contributed to **20+** open-source projects
-
+- 🌱 I’ve committed to over **--** repositories
+- 🔥 I’ve participated in **--** hackathons and machine learning challenges
+- 🛠️ I’ve contributed to **--** open-source projects
 ---
+-->
 
 # 🌍 Latest Contributions:
 <p align="center">
-  <a href="https://github.com/ram-narayan-gupta-02/Heart-Disease-Prediction"><img src="https://img.shields.io/badge/Heart Disease Prediction-4CAF50?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ram-narayan-gupta-02/Student-Dropout-Prediction"><img src="https://img.shields.io/badge/Student Dropout Prediction-009688?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ram-narayan-gupta-02/Titanic-SurvivalPredictiion-System"><img src="https://img.shields.io/badge/Titanic-Survival-Prediction-System-4CAF50?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ram-narayan-gupta-02/Movie-Recommendation-System"><img src="https://img.shields.io/badge/Movie-Recommendation-System-009688?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
