@@ -21,7 +21,7 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 ## 🌐 Connect with Me:
 <p align="left">
   <a href="https://github.com/ram-narayan-gupta-02"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/_ramnrngupta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:ramnrngupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ram-narayan-gupta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -58,7 +58,7 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ram-narayan-gupta-02&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram-narayan-gupta-02&theme=dark&hide_border=false"/><br> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRiShNa-429407&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-narayan-gupta-02&layout=compact&theme=tokyonight"/>
 </p> 
 
 ---
