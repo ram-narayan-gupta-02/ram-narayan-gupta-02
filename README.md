@@ -64,7 +64,7 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 </p> -->
 <img src="https://github-contributor-stats.vercel.app/api?username=ritikvimal2011&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=ritikvimal2011&icon=2&color=white)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=ritikvimal2011&icon=2&color=white)](https://visitcount.itsvg.in"/>
 
 ---
 
