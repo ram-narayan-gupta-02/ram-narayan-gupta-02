@@ -11,7 +11,7 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 - **Languages**: Python, Java, C
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly
 - **Frameworks**: Streamlit
-- **Data Science**: Data Cleaning, Data Visualization, Predictive Modelling
+- **Data Science**: Data Cleaning, Data Visualization, Predictive Modelling, Data Manipulation
 
 ✨ **Fun Facts**:
 - I enjoy solving complex problems and turning them into elegant solutions.
