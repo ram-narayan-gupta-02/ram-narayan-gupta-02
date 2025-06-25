@@ -6,12 +6,13 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 💼 **Current Projects**:
 - **Titanic Survival Prediction System (TSPS)**
 - **Movie Recommendation System (MRS)**
+- **Working On Wind Speed Prediction System (WSPS)**
   
 👨‍💻 **Tech Stack**:
 - **Languages**: Python, Java, C
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Plotly
 - **Frameworks**: Streamlit
-- **Data Science**: Data Cleaning, Data Visualization, Predictive Modelling, Data Manipulation
+- **Data Science**: Data Cleaning, Data Visualization, Predictive Modelling, Data Manipulation, Data Handling 
 
 ✨ **Fun Facts**:
 - I enjoy solving complex problems and turning them into elegant solutions.
