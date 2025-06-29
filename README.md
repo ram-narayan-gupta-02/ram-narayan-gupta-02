@@ -97,6 +97,10 @@ I’m always open to collaborating on interesting projects, especially those inv
 
 # 🌍 Latest Contributions:
 <p align="center">
-  <a href="https://github.com/ram-narayan-gupta-02/Titanic-Survival-System"><img src="https://img.shields.io/badge/Titanic%20Survival%20System-4CAF50?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ram-narayan-gupta-02/Recommendar-System"><img src="https://img.shields.io/badge/Recommendar%20System-009688?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ram-narayan-gupta-02/Titanic-Survival-System">
+    <img src="https://img.shields.io/badge/Titanic%20Survival%20System-4CAF50?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ram-narayan-gupta-02/Wind-Speed-Prediction-System">
+    <img src="https://img.shields.io/badge/Wind%20Speed%20Prediction%20System-009688?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
