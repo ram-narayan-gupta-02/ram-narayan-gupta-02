@@ -5,7 +5,6 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 
 💼 **Current Projects**:
 - **Titanic Survival Prediction System (TSPS)**
-- **Recommendar System (RS)**
 - **Working On Wind Speed Prediction System (WSPS)**
   
 👨‍💻 **Tech Stack**:
@@ -75,7 +74,7 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 ## 🚀 Fun Projects:
 Here are some of the projects I'm currently working on:
 1. **Titanic Survival Prediction System (TSPS)**: The TSPS is a machine learning-based model designed to predict whether a passenger survived or not aboard the ill-fated RMS Titanic.
-2. **Movies Recommendation System (MRS)**: The MRS is a machine learning-based model designed to provide personalized movie suggestions to users.
+2. **Wind Speed Prediction System (WSPS)**: TA smart system to predict wind speed using ML. Provides wind speed outputs in m/s and km/h with visual charts and model accuracy metrics.
 ---
 
 # 📅 Let's Collaborate:
