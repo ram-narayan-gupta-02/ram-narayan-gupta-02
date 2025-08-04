@@ -105,26 +105,55 @@ I’m always open to collaborating on interesting projects, especially those inv
 </a>
 
 </p>
-<p align="center">
- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ram-narayan-gupta-02&style=flat&color=red"> •   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ram-narayan-gupta-02?label=Followers&style=social"> •   
-<img src="https://img.shields.io/github/stars/ram-narayan-gupta-02?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README</title>
+    <!-- Tailwind CSS CDN for easy styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for the Inter font */
+        body {
+            font-family: "Inter", sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center justify-center p-4">
+    <div class="max-w-4xl w-full bg-gray-800 p-6 rounded-lg shadow-lg">
+        <!-- Profile Badges Section -->
+        <div class="flex flex-wrap justify-center items-center space-x-2 sm:space-x-4 mb-8">
+            <!-- Profile Views Badge -->
+            <img alt="profile views" src="https://komarev.com/ghpvc/?username=ram-narayan-gupta-02&style=flat&color=red" class="rounded-md">
+            <!-- GitHub Followers Badge -->
+            <img alt="GitHub followers" src="https://img.shields.io/github/followers/ram-narayan-gupta-02?label=Followers&style=social" class="rounded-md">
+            <!-- Total Stars Badge -->
+            <img src="https://img.shields.io/github/stars/ram-narayan-gupta-02?label=Stars" alt="Total Stars" class="rounded-md">
+        </div>
 
-<p align="center">
-    <a href="https://github.com/ram-narayan-gupta-02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="py3-coder streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-narayan-gupta-02 &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<br/>
- <h2 align="center">Github's Contribution</h2>
+        <!-- GitHub Streak Stats Section -->
+        <div class="flex justify-center mb-8">
+            <a href="https://github.com/ram-narayan-gupta-02/github-readme-streak-stats" class="block rounded-lg overflow-hidden">
+                <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="py3-coder streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-narayan-gupta-02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" class="w-full h-auto rounded-lg shadow-md">
+            </a>
+        </div>
 
-  <br/>
-  <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=380&height=45"></a>
-</p> 
+        <!-- GitHub's Contribution Title -->
+        <h2 class="text-3xl font-bold text-center mb-6">GitHub's Contribution</h2>
+
+        <!-- GitHub Contribution Grid Snake Animation -->
+        <div class="flex justify-center mb-8">
+            <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" class="w-full h-auto max-w-xl rounded-lg shadow-md">
+        </div>
+
+        <!-- Animated Typing Text -->
+        <div class="flex justify-center">
+            <a href="https://github.com/DenverCoder1/readme-typing-svg" class="block">
+                <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=380&height=45" alt="Animated Typing Text" class="w-full h-auto rounded-md">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
