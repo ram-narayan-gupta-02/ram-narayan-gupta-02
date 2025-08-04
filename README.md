@@ -106,23 +106,9 @@ I’m always open to collaborating on interesting projects, especially those inv
 
 </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile README</title>
-    <!-- Tailwind CSS CDN for easy styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        /* Custom styles for the Inter font */
-        body {
-            font-family: "Inter", sans-serif;
-        }
-    </style>
-</head>
-<body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center justify-center p-4">
-    <div class="max-w-4xl w-full bg-gray-800 p-6 rounded-lg shadow-lg">
+
+
+
         <!-- Profile Badges Section -->
         <div class="flex flex-wrap justify-center items-center space-x-2 sm:space-x-4 mb-8">
             <!-- Profile Views Badge -->
@@ -154,6 +140,3 @@ I’m always open to collaborating on interesting projects, especially those inv
                 <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=380&height=45" alt="Animated Typing Text" class="w-full h-auto rounded-md">
             </a>
         </div>
-    </div>
-</body>
-</html>
