@@ -109,34 +109,3 @@ I’m always open to collaborating on interesting projects, especially those inv
 
 
 
-        <!-- Profile Badges Section -->
-        <div class="flex flex-wrap justify-center items-center space-x-2 sm:space-x-4 mb-8">
-            <!-- Profile Views Badge -->
-            <img alt="profile views" src="https://komarev.com/ghpvc/?username=ram-narayan-gupta-02&style=flat&color=red" class="rounded-md">
-            <!-- GitHub Followers Badge -->
-            <img alt="GitHub followers" src="https://img.shields.io/github/followers/ram-narayan-gupta-02?label=Followers&style=social" class="rounded-md">
-            <!-- Total Stars Badge -->
-            <img src="https://img.shields.io/github/stars/ram-narayan-gupta-02?label=Stars" alt="Total Stars" class="rounded-md">
-        </div>
-
-        <!-- GitHub Streak Stats Section -->
-        <div class="flex justify-center mb-8">
-            <a href="https://github.com/ram-narayan-gupta-02/github-readme-streak-stats" class="block rounded-lg overflow-hidden">
-                <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="py3-coder streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-narayan-gupta-02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" class="w-full h-auto rounded-lg shadow-md">
-            </a>
-        </div>
-
-        <!-- GitHub's Contribution Title -->
-        <h2 class="text-3xl font-bold text-center mb-6">GitHub's Contribution</h2>
-
-        <!-- GitHub Contribution Grid Snake Animation -->
-        <div class="flex justify-center mb-8">
-            <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" class="w-full h-auto max-w-xl rounded-lg shadow-md">
-        </div>
-
-        <!-- Animated Typing Text -->
-        <div class="flex justify-center">
-            <a href="https://github.com/DenverCoder1/readme-typing-svg" class="block">
-                <img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=380&height=45" alt="Animated Typing Text" class="w-full h-auto rounded-md">
-            </a>
-        </div>
