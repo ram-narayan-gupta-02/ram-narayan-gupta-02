@@ -105,3 +105,16 @@ I’m always open to collaborating on interesting projects, especially those inv
 </a>
 
 </p>
+<p align="center">
+ <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ram-narayan-gupta-02&style=flat&color=red"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ram-narayan-gupta-02?label=Followers&style=social"> •   
+<img src="https://img.shields.io/github/stars/ram-narayan-gupta-02?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/ram-narayan-gupta-02/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="py3-coder streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-narayan-gupta-02 &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br/>
