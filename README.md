@@ -118,3 +118,13 @@ I’m always open to collaborating on interesting projects, especially those inv
     </a>
 </p>
 <br/>
+ <h2 align="center">Github's Contribution</h2>
+
+  <br/>
+  <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer&center=true&width=380&height=45"></a>
+</p> 
