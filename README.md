@@ -99,6 +99,8 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
 
 ---
 
-### 📈 Contribution Graph  
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg" alt="Snake animation" />
+</p>
 
-![Ram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ram-narayan-gupta02&bg_color=0d1117&color=00ff99&line=00ffcc&point=ffffff&area=true&hide_border=true)
