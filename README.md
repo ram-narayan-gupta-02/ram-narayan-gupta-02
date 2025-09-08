@@ -37,6 +37,10 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://scipy.org/images/logo.svg" width="50" height="50"/>  
   <!-- Scikit-learn -->
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>  
+  <!-- Keras -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50"/>  
+  <!-- Plotly -->
+  <img src="https://img.icons8.com/fluency/48/plotly.png" width="50" height="50"/>  
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
   <!-- MySQL -->
@@ -61,7 +65,11 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>  
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
-</div>  
+  <!-- Google Colab -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Colaboratory_SVG_Logo.svg" width="50" height="50"/>  
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>  
+</div>
 
 ---
 
