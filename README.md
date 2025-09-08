@@ -32,13 +32,14 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- Matplotlib -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>  
   <!-- Seaborn -->
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/seaborn.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/seaborn.png" width="50" height="50"/>
   <!-- SciPy -->
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/scipy.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/scipy.png" width="50" height="50"/>
   <!-- Scikit-learn -->
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/scikit-learn.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/scikit-learn.png" width="50" height="50"/>
   <!-- Plotly -->
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/plotly.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/plotly.png" width="50" height="50"/>
+
   <!-- Keras -->
   <img src="https://raw.githubusercontent.com/keras-team/keras/main/docs/img/keras-logo-small.png" width="50" height="50"/>  
   <!-- Git -->
