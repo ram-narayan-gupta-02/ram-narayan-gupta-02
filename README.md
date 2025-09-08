@@ -1,12 +1,17 @@
-# 👋 Hi, I'm Ram Narayan Gupta  
+<div align="center">
 
-🌟 **Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver**  
+# 👋 Hi, I'm Ram Narayan Gupta
+🌟 **Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver**
 
 I am pursuing my **B.Tech in Computer Science and Engineering** at  
-**Raja Balwant Singh Engineering Technical Campus, Agra (AKTU)**.  
+**Raja Balwant Singh Engineering Technical Campus, Agra (AKTU)**.
 
 🔭 Interests: **Data Science, Machine Learning, Predictive Modeling**  
-⚡ Fun fact: I love transforming raw data into meaningful insights!  
+⚡ Fun fact: I love transforming raw data into meaningful insights!
+
+![AI/ML Developer GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
+</div>  
 
 ---
 
