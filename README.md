@@ -39,8 +39,6 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>
   <!-- Plotly -->
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="50" height="50"/>
-  <!-- Keras -->
-  <img src="https://raw.githubusercontent.com/keras-team/keras/main/docs/img/keras-logo-small.png" width="50" height="50"/>  
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
   <!-- MySQL -->
