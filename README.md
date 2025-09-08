@@ -30,15 +30,17 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>  
   <!-- Matplotlib -->
-  <img src="https://img.icons8.com/color/48/matplotlib.png" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>  
   <!-- Seaborn -->
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/logo/seaborn-logo-lightbg.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/seaborn.svg" width="50" height="50"/>  
   <!-- SciPy -->
-  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/_static/logo.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/scipy.svg" width="50" height="50"/>  
   <!-- Scikit-learn -->
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logo/scikit-learn-logo-small.png" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/scikit-learn.svg" width="50" height="50"/>  
   <!-- Plotly -->
-  <img src="https://img.icons8.com/fluency/48/plotly.png" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/SVG/plotly.svg" width="50" height="50"/>  
+  <!-- Keras -->
+  <img src="https://raw.githubusercontent.com/keras-team/keras/main/docs/img/keras-logo-small.png" width="50" height="50"/>  
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
   <!-- MySQL -->
