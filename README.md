@@ -11,16 +11,16 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
 ---
 
 ## 👀 Profile Views  
-<p align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ram-narayan-gupta-02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+</div>
 
 ---
 
 # 💻 Tech Stack   
 
-### 📚 Language, Libraries, Tools & Frameworks  
-<p align="left">  
+### 📚 Languages, Libraries, Tools & Frameworks  
+<div align="center">  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
   <!-- Java -->
@@ -61,45 +61,46 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>  
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
-</p>  
+</div>  
 
 ---
 
 # 📊 GitHub Stats  
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ram-narayan-gupta-02&theme=tokyonight&show_icons=true" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ram-narayan-gupta-02&theme=tokyonight" alt="streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-narayan-gupta-02&layout=compact&theme=tokyonight" alt="langs"/>
   <img src="https://github-profile-trophy.vercel.app/?username=ram-narayan-gupta-02&theme=tokyonight&row=1&column=6" alt="trophies"/>
-</p>
+</div>
 
 ---
 
 # 🚀 Projects  
 
-<p align="center">
-  <a href="https://github.com/ram-narayan-gupta-02/Titanic-Survival-System">
-    <img src="https://img.shields.io/badge/Titanic%20Survival%20System-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+  <a href="https://github.com/ram-narayan-gupta-02/Recommendation-System">
+    <img src="https://img.shields.io/badge/Recommendation%20System-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/ram-narayan-gupta-02/Wind-Speed-Prediction-System">
     <img src="https://img.shields.io/badge/Wind%20Speed%20Prediction%20System-009688?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>  
+</div>  
 
 ---
 
 # 🌍 Connect With Me  
 
-<p align="left">
+<div align="center">
   <a href="mailto:ramnrngupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ram-narayan-gupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/ramnrngupta"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg" alt="snake animation" />
+</div>
