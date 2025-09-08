@@ -9,24 +9,6 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
 ⚡ Fun fact: I love transforming raw data into meaningful insights!  
 
 ---
-# 👋 Hi, I'm Ram Narayan Gupta  
-
-🌟 **Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver**  
-
-I am pursuing my **B.Tech in Computer Science and Engineering** at  
-**Raja Balwant Singh Engineering Technical Campus, Agra (AKTU)**.  
-
-🔭 Interests: **Data Science, Machine Learning, Predictive Modeling**  
-⚡ Fun fact: I love transforming raw data into meaningful insights!  
-
----
-
-## 👀 Profile Views  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ram-narayan-gupta-02&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</div>
-
----
 
 # 💻 Tech Stack   
 
