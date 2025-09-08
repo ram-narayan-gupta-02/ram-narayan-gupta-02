@@ -17,29 +17,50 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
 
 ---
 
-# 💻 Tech Stack  
+# 💻 Tech Stack   
 
-### 🚀 Languages  
+### 📚 Language, Libraries, Tools & Frameworks  
 <p align="left">  
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>  
-</p>  
-
-### 📚 Libraries & Tools  
-<p align="left">  
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
+  <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>  
+  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>  
+  <!-- Matplotlib -->
   <img src="https://img.icons8.com/color/48/matplotlib.png" width="50" height="50"/>  
+  <!-- Seaborn -->
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-seaborn-a-python-data-visualization-library-based-on-matplotlib-logo-color-tal-revivo.png" width="50" height="50"/>  
+  <!-- SciPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50" height="50"/>  
+  <!-- Scikit-learn -->
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-scikit-learn-is-a-free-software-machine-learning-library-for-the-python-programming-language-logo-soft-fill-juicy-fish.png" width="50" height="50"/>  
-  <img src="https://img.icons8.com/fluency/48/plotly.png" width="50" height="50"/>  
-</p>  
-
-### ⚡ Frameworks  
-<p align="left">  
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50"/>  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>  
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>  
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>  
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>  
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <!-- Streamlit -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50"/> 
+  <!-- ReactJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>  
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
 </p>  
 
 ---
