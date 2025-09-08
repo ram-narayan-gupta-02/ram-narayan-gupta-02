@@ -32,11 +32,11 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
   <!-- Matplotlib -->
   <img src="https://img.icons8.com/color/48/matplotlib.png" width="50" height="50"/>  
   <!-- Seaborn -->
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-seaborn-a-python-data-visualization-library-based-on-matplotlib-logo-color-tal-revivo.png" width="50" height="50"/>  
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>  
   <!-- SciPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50" height="50"/>  
+  <img src="https://scipy.org/images/logo.svg" width="50" height="50"/>  
   <!-- Scikit-learn -->
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-scikit-learn-is-a-free-software-machine-learning-library-for-the-python-programming-language-logo-soft-fill-juicy-fish.png" width="50" height="50"/>  
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>  
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
   <!-- MySQL -->
