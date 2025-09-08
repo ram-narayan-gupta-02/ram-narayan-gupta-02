@@ -104,5 +104,5 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 # 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg" alt="Snake ani
+  <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg" alt="Snake animation" />
 </div>
