@@ -79,8 +79,8 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
 # 🚀 Projects  
 
 <div align="center">
-  <a href="https://github.com/ram-narayan-gupta-02/Recommendation-System">
-    <img src="https://img.shields.io/badge/Recommendation%20System-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ram-narayan-gupta-02/Movie-Recommendation-System">
+    <img src="https://img.shields.io/badge/Movie%205Recommendation%20System-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/ram-narayan-gupta-02/Wind-Speed-Prediction-System">
     <img src="https://img.shields.io/badge/Wind%20Speed%20Prediction%20System-009688?style=for-the-badge&logo=github&logoColor=white" />
