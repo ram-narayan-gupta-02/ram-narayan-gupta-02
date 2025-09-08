@@ -63,8 +63,8 @@ Hi! 👋 I'm **Ram Narayan Gupta**, a passionate learner and aspiring **Data Sci
 
 ---
 
-## 👀 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?ram-narayan-gupta-02=RamNarayanGupta&label=Profile%20Views&color=0e75b6&style=flat)
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?ram-narayan-gupta-02=RamNarayanGupta&label=Profile%20Views&color=0e75b6&style=flat" alt="RamNarayanGupta" />
 
 ---
 
