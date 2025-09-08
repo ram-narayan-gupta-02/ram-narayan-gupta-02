@@ -100,6 +100,6 @@ I am pursuing my **B.Tech in Computer Science and Engineering** at
 ---
 
 ### 🐍 Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/blank.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/blank.svg#gh-dark-mode-only)
 
