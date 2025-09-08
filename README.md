@@ -38,8 +38,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- Scikit-learn -->
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>
   <!-- Plotly -->
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/plotly.png" width="50" height="50"/>
-
+  <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/main/assets/icons/plotly.png" width="50" height="50"/>
   <!-- Keras -->
   <img src="https://raw.githubusercontent.com/keras-team/keras/main/docs/img/keras-logo-small.png" width="50" height="50"/>  
   <!-- Git -->
