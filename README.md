@@ -32,13 +32,11 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- Matplotlib -->
   <img src="https://img.icons8.com/color/48/matplotlib.png" width="50" height="50"/>  
   <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/logo/seaborn-logo-lightbg.svg" width="50" height="50"/>  
   <!-- SciPy -->
-  <img src="https://scipy.org/images/logo.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/_static/logo.svg" width="50" height="50"/>  
   <!-- Scikit-learn -->
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>  
-  <!-- Keras -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50"/>  
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logo/scikit-learn-logo-small.png" width="50" height="50"/>  
   <!-- Plotly -->
   <img src="https://img.icons8.com/fluency/48/plotly.png" width="50" height="50"/>  
   <!-- Git -->
@@ -66,7 +64,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
   <!-- Google Colab -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Colaboratory_SVG_Logo.svg" width="50" height="50"/>  
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50"/>  
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>  
 </div>
