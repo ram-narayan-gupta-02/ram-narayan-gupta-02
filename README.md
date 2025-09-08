@@ -17,7 +17,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 ---
 
-# 💻 Tech Stack   
+## 💻 Tech Stack   
 
 ### 📚 Languages, Libraries, Tools & Frameworks  
 <div align="center">  
@@ -65,7 +65,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 ---
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ram-narayan-gupta-02&theme=tokyonight&show_icons=true" alt="stats" />
@@ -79,7 +79,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 ---
 
-# 🚀 Projects  
+## 🚀 Projects  
 
 <div align="center">
   <a href="https://github.com/ram-narayan-gupta-02/Movie-Recommendation-System">
@@ -92,7 +92,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 ---
 
-# 🌍 Connect With Me  
+## 🌍 Connect With Me  
 
 <div align="center">
   <a href="mailto:ramnrngupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -102,7 +102,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg" alt="Snake animation" />
 </div>
