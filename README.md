@@ -32,11 +32,11 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- Matplotlib -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>  
   <!-- Seaborn -->
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/seaborn.png" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>  
   <!-- SciPy -->
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/scipy.png" width="50" height="50"/>
+  <img src="https://scipy.org/images/logo.svg" width="50" height="50"/>  
   <!-- Scikit-learn -->
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/scikit-learn.png" width="50" height="50"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>
   <!-- Plotly -->
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/plotly.png" width="50" height="50"/>
 
