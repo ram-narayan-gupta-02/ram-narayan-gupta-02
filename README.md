@@ -67,6 +67,8 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50"/>  
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>  
+  <!-- Render -->
+  <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/main/assets/icons/render.png" width="50" height="50"/>
 </div>
 
 ---
