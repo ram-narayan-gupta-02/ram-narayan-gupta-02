@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Ram Narayan Gupta
+# 👋 Hi, I'm 
+# Ram Narayan Gupta
 🌟 **Aspiring Data Scientist | AI/ML Enthusiast **
 
 I am pursuing my **B.Tech in Computer Science & Engineering** at  
