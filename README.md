@@ -7,7 +7,7 @@
 I am pursuing my **B.Tech in Computer Science & Engineering** at  
 **Raja Balwant Singh Engineering Technical Campus, Agra (AKTU)**.
 
-🔭 Interests: **Data Science, Machine Learning, AI**  
+🔭 Interests:**Data Science, Machine Learning, AI**  
 ⚡ Fun fact: I love transforming raw data into meaningful insights!
 
 ![AI/ML Developer GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
