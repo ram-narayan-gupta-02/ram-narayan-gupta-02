@@ -10,7 +10,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 🔭 Interests:**Data Science, Machine Learning, AI**  
 ⚡ Fun fact: I love transforming raw data into meaningful insights!
 
-![AI/ML Developer GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![AI/ML Intern GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 <img src="https://komarev.com/ghpvc/?username=ram-narayan-gupta-02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
