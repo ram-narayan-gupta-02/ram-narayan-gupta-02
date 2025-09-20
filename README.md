@@ -55,7 +55,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
   <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50"/> 
-  <!-- ReactJS -->
+  <!-- React.JS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>  
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>  
