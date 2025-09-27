@@ -23,10 +23,10 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 <div align="center">
 
   <!-- Data Science & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,opencv,mysql,flask,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,opencv,mysql,flask,postman,aws" /></br>
 
   <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,fastapi" /></br>
 
   <!-- Programming Languages & IDEs -->
   <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,render,jupiternotebook,googlecolab" />
