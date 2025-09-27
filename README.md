@@ -52,7 +52,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/></br> 
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br>
   <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50"/> 
   <!-- React.JS -->
