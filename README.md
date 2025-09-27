@@ -20,20 +20,6 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 ## 💻 Tech Stack   
 
 ### 📚 Languages, Libraries, Tools & Frameworks 
-<div align="center">
-
-  <!-- Data Science & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,opencv,mysql,flask,postman,aws" /></br>
-
-  <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,fastapi" /></br>
-
-  <!-- Programming Languages & IDEs -->
-  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,render,jupiternotebook,google" /></br>
-
-</div>
-
-
 <div align="center">  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
@@ -46,23 +32,23 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- Matplotlib -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>  
   <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>  
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
   <!-- SciPy -->
   <img src="https://scipy.org/images/logo.svg" width="50" height="50"/>  
   <!-- Scikit-learn -->
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50"/></br>
   <!-- Plotly -->
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="50" height="50" />
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>  
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>  
   <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/></br> 
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>  
   <!-- GitHub -->
@@ -70,7 +56,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <!-- Streamlit -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50"/> 
   <!-- React.JS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/></br>
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>  
   <!-- CSS -->
