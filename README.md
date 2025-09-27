@@ -23,18 +23,19 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 <div align="center">
 
   <!-- Data Science & Tools -->
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scipy,scikitlearn,plotly,tensorflow,keras,pytorch,opencv,,streamlit,mysql,flask,postman,aws," /><br>
+  <h3>Data Science & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scipy,scikitlearn,plotly,tensorflow,keras,pytorch,opencv,streamlit,mysql,flask,postman,aws" />
 
   <!-- Web Development -->
+  <h3>Web Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,fastapi" />
 
-<img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,FastAPI" /><br>
-
-  <!-- Programming Languages & Tools -->
-
-<img src="https://skillicons.dev/icons?i=java,c,javagit,github,vscode,render,jupiternotebook,googlecolab" /><br>
+  <!-- Programming Languages & IDEs -->
+  <h3>Programming Languages & IDEs</h3>
+  <img src="https://skillicons.dev/icons?i=java,c,javagit,github,vscode,render,jupiternotebook,googlecolab" />
 
 </div>
+
 
 <div align="center">  
   <!-- Python -->
