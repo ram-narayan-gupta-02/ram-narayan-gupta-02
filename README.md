@@ -20,12 +20,22 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 ## 💻 Tech Stack   
 
 ### 📚 Languages, Libraries, Tools & Frameworks 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&center=true&vCenter=true&width=950&height=90&duration=3500&pause=900&lines=🚀+If+I+can+do+it%2C+anyone+can;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
-    alt="motto typing svg - press start 2p"
-  />
-</p>
+<div align="center">
+
+  <!-- Row 1: Data Science & Tools -->
+
+<img src="https://skillicons.dev/icons?i=python,r,lua,mysql,mongodb,julia,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
+
+  <!-- Row 2: Web Development -->
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
+
+  <!-- Row 3: Programming Languages & Tools -->
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,vscode,figma,vercel,netlify" /><br>
+
+</div>
+
 <div align="center">  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
