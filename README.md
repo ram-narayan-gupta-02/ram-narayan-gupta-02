@@ -23,16 +23,13 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 <div align="center">
 
   <!-- Data Science & Tools -->
-  <h3>Data Science & Tools</h3>
   <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,opencv,mysql,flask,postman,aws" />
 
   <!-- Web Development -->
-  <h3>Web Development</h3>
   <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,fastapi" />
 
   <!-- Programming Languages & IDEs -->
-  <h3>Programming Languages & IDEs</h3>
-  <img src="https://skillicons.dev/icons?i=java,c,javagit,github,vscode,render,jupiternotebook,googlecolab" />
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,render,jupiternotebook,googlecolab" />
 
 </div>
 
