@@ -29,7 +29,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,fastapi" /></br>
 
   <!-- Programming Languages & IDEs -->
-  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,render,jupiternotebook,googlecolab" />
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,render,jupiternotebook,googlecolab" /></br>
 
 </div>
 
