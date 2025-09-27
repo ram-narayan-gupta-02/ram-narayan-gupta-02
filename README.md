@@ -22,17 +22,17 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 ### 📚 Languages, Libraries, Tools & Frameworks 
 <div align="center">
 
-  <!-- Row 1: Data Science & Tools -->
+  <!-- Data Science & Tools -->
 
-<img src="https://skillicons.dev/icons?i=python,r,lua,mysql,mongodb,julia,firebase,supabase,flask,postman,aws,docker,kubernetes" /><br>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scipy,scikitlearn,plotly,tensorflow,keras,pytorch,opencv,,streamlit,mysql,flask,postman,aws," /><br>
 
-  <!-- Row 2: Web Development -->
+  <!-- Web Development -->
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap,mui" /><br>
+<img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,tailwind,FastAPI" /><br>
 
-  <!-- Row 3: Programming Languages & Tools -->
+  <!-- Programming Languages & Tools -->
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,vscode,figma,vercel,netlify" /><br>
+<img src="https://skillicons.dev/icons?i=java,c,javagit,github,vscode,render,jupiternotebook,googlecolab" /><br>
 
 </div>
 
