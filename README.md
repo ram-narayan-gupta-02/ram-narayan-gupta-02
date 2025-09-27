@@ -19,7 +19,13 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 ## 💻 Tech Stack   
 
-### 📚 Languages, Libraries, Tools & Frameworks  
+### 📚 Languages, Libraries, Tools & Frameworks 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&center=true&vCenter=true&width=950&height=90&duration=3500&pause=900&lines=🚀+If+I+can+do+it%2C+anyone+can;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
+    alt="motto typing svg - press start 2p"
+  />
+</p>
 <div align="center">  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
