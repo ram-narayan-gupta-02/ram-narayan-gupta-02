@@ -24,7 +24,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
   <!-- Data Science & Tools -->
   <h3>Data Science & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,scipy,scikitlearn,plotly,tensorflow,keras,pytorch,opencv,streamlit,mysql,flask,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,keras,pytorch,opencv,streamlit,mysql,flask,postman,aws" />
 
   <!-- Web Development -->
   <h3>Web Development</h3>
