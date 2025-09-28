@@ -93,7 +93,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   </a>
   <a href="https://github.com/ram-narayan-gupta-02/Wind-Speed-Prediction-System">
     <img src="https://img.shields.io/badge/Wind%20Speed%20Prediction%20System-009688?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a><br>
   <a href="https://github.com/ram-narayan-gupta-02/Sentiment-Analysis">
     <img src="https://img.shields.io/badge/Sentiment%20Analysis-007BFF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
