@@ -95,7 +95,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
     <img src="https://img.shields.io/badge/Wind%20Speed%20Prediction%20System-009688?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/ram-narayan-gupta-02/Sentiment-Analysis">
-    <img src="https://img.shields.io/badge/Sentiment%Analysis%20-009688?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sentiment%20Analysis%20-009688?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>  
 
