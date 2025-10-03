@@ -1,4 +1,4 @@
-![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile!-6A5ACD?style=for-the-badge&logo=github&logoColor=white)
+
 <!-- Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff)
 
