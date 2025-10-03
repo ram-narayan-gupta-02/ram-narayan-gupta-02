@@ -1,6 +1,12 @@
-<h1 align="center" style="background-color:#6a1b9a; color:white; padding:20px; border-radius:10px;">
-  Welcome to my profile!
-</h1>
+<div align="center">
+  <h1 style="
+      background: linear-gradient(to right, #8e2de2, #4a00e0);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 40px;">
+    Welcome to my profile!
+  </h1>
+</div>
 <div align="center">
 
 # 👋 Hi, I'm 
