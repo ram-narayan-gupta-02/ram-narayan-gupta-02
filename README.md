@@ -121,3 +121,5 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 <div align="center">
   <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg" alt="Snake animation" />
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer)
