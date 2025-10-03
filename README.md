@@ -1,4 +1,6 @@
-![Welcome Banner](https://raw.githubusercontent.com/your-username/your-repo/main/welcome.png)
+<h1 align="center" style="background-color:#6a1b9a; color:white; padding:20px; border-radius:10px;">
+  Welcome to my profile!
+</h1>
 <div align="center">
 
 # 👋 Hi, I'm 
