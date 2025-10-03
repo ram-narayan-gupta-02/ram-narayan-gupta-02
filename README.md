@@ -122,8 +122,4 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://raw.githubusercontent.com/ram-narayan-gupta-02/ram-narayan-gupta-02/output/snake.svg" alt="Snake animation" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer&text=Thanks%20for%20visiting!%20✨%20Keep%20Learning,%20Keep%20Growing%20🚀&fontSize=25&fontColor=ffffff)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer&text=Code.%20Debug.%20Repeat.%20🚀&fontSize=25&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer&text=Thanks%20for%20visiting!%20✨%20Code.%20Debug.%20Repeat.%20🚀&fontSize=25&fontColor=ffffff)
