@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm 
 # Ram Narayan Gupta
-🌟 **Aspiring Data Scientist | AI/ML Enthusiast **
+**Aspiring Data Scientist | AI/ML Enthusiast **
 
 I am pursuing my **B.Tech in Computer Science & Engineering** at  
 **Raja Balwant Singh Engineering Technical Campus, Agra (AKTU)**.
@@ -124,4 +124,4 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer&text=Thanks%20for%20visiting!%20✨%20Code.%20Debug.%20Repeat.%20🚀&fontSize=25&fontColor=ffffff)
 
-> ✨ "The best way to predict the future is to create it." – Peter Drucker ✨
+> "The best way to predict the future is to create it." – Peter Drucker
