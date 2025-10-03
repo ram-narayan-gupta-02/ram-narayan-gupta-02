@@ -123,3 +123,5 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer&text=Thanks%20for%20visiting!%20✨%20Keep%20Learning,%20Keep%20Growing%20🚀&fontSize=25&fontColor=ffffff)
