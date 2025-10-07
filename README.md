@@ -82,7 +82,7 @@ I am pursuing my **B.Tech in Computer Science & Engineering** at
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ram-narayan-gupta-02&theme=tokyonight" alt="streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-narayan-gupta-02&layout=compact&theme=tokyonight" alt="langs" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-narayan-gupta-02&layout=compact&theme=tokyonight&langs_count=30)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-narayan-gupta-02&layout=compact&theme=tokyonight&langs_count=30" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=ram-narayan-gupta-02&theme=tokyonight&row=1&column=6" alt="trophies" />
 </div>
