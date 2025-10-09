@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm 
+# 👋🏻 Hi, I'm 
 # Ram Narayan Gupta
 **Aspiring Data Scientist | AI/ML Enthusiast **
 
