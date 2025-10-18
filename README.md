@@ -7,8 +7,8 @@
 # Ram Narayan Gupta
 **Aspiring Data Scientist | AI/ML Enthusiast **
 
-I am pursuing my **B.Tech in CSE**<br>
-at<br>
+I am pursuing my **B.Tech in CSE**
+<br>at<br>
 **Raja Balwant Singh Engineering Technical Campus, Agra (AKTU)**.
 
 🔭 Interests:**Data Science, Machine Learning, AI**  
