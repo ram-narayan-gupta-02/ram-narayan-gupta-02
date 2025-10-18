@@ -11,7 +11,7 @@ I am pursuing my **B.Tech in CSE**
 <br>at<br>
 **RBSETC, Agra (AKTU)**.
 
-🔭 Interests:**Data Science, Machine Learning, AI**  
+🔭 Interests: **Data Science, Machine Learning, AI**  
 ⚡ Fun fact: I love transforming raw data into meaningful insights!
 
 ![AI/ML Intern GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
