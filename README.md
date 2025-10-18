@@ -8,7 +8,7 @@
 **Aspiring Data Scientist | AI/ML Enthusiast **
 
 I am pursuing my **B.Tech in CSE**
-at  
+<p>at</p>
 **Raja Balwant Singh Engineering Technical Campus, Agra (AKTU)**.
 
 🔭 Interests:**Data Science, Machine Learning, AI**  
