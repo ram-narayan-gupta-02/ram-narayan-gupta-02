@@ -9,7 +9,7 @@
 
 I am pursuing my **B.Tech in CSE**
 <br>at<br>
-**RBS Engineering Technical Campus, Agra (AKTU)**.
+**RBSETC, Agra (AKTU)**.
 
 🔭 Interests:**Data Science, Machine Learning, AI**  
 ⚡ Fun fact: I love transforming raw data into meaningful insights!
