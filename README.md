@@ -4,7 +4,7 @@
 <div align="center">
 
 # 👋🏻 Hi, I'm 
-# Ram Narayan Gupta
+> # Ram Narayan Gupta
 **Aspiring Data Scientist | AI/ML Enthusiast **
 
 I am pursuing my **B.Tech in CSE**
